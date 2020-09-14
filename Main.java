@@ -23,6 +23,6 @@ public class Main {
     // calculating the slope and initiating variable slope
     int slope = (y2 - y1) / (x2 - x1);
     // saying the slope
-System.out.println("The slope of your line would be " + slope);
+System.out.println("The slope of your line would be " + slope + ".");
   }
 }
